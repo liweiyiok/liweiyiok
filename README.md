@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liweiyi
-<p>welcome to here! if you want find some Brand Camera Lens,you can </p>
-ul>
+<p>welcome to here! if you want find some Brand New or Used Camera Lens,you can cantact me for best discount</p>
+<P>liweiyicamera@gmail.com</P>
   <li> <a href="https://dongfutrade.com/">广州东福明德相机</a> </li>
   <li> <a href="https://dongfumingde.en.alibaba.com/">Camera Lenses</a> </li>
 </ul>
